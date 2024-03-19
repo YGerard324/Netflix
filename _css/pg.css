@@ -1,0 +1,49 @@
+.profile_ico{
+    height: 30px;
+    width: 30px;
+    border-radius: 4px;
+}
+.logo{
+    height: 30px;
+}
+body{
+    background-image: url('https://img.odcdn.com.br/wp-content/uploads/2024/01/imagem_2024-01-31_001037382.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+}
+.nav-item{
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+.banner{
+    background-color: rgba(0, 0, 0, 0.329);
+    height: 950px;
+    width: auto;
+    font-size: 24px;
+}
+.banner_img{
+    padding-top: 150px ;
+    height: 380px;
+}
+.banner_text{
+    color: white;
+}
+.content{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+.classificacao_indicativa {
+    text-align: right;
+}
+.fa-rotate-right{
+    padding-right: 10px
+}
+.age_tag{
+    height: 30px;
+    width: 30px;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.384);
+}
